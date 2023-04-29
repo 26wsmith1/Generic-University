@@ -1,4 +1,4 @@
-<?php
+Get /api/users/6HTTP/1.1
 
 namespace App;
 
